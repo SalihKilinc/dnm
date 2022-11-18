@@ -35,6 +35,7 @@ git pull   // locale veri ceker
 
 ----- baskasinin kodunu cekip direk gite atmak sorun olur 
 ----- kodu indirip icindeki git branchi sil 
+
 ----- sonra tekrar git init yap / ekle / commit / sonra gite at
 
 .gitignore   // cok onemli , gorunmesini istemediginiz dosyalarin adini bunun icine yazarak gonderin ayni zamanda cakismayi onler
