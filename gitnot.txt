@@ -41,6 +41,9 @@ git pull   // locale veri ceker
 .gitignore   // cok onemli , gorunmesini istemediginiz dosyalarin adini bunun icine yazarak gonderin ayni zamanda cakismayi onler
 git config --get user.email // cmd de mail adresinizi gorursunuz
 git config --global user.email "mail adresi" // e maili degistirme kodu 
+Proje calismasi yapilirken cakismayi onleme adina hekese belli alan verilebilr ve boylece cakismanin onune gecilebilir diger kodlara sorun olmadan
+Proje yapilirken pull ile master cekilir ama kendi olusturdugumuz branch ile gonderilir yoksa sorun olur masterden mastera gonderim olmaz
+
 
 
 
